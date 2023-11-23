@@ -26,6 +26,7 @@
 #
 
 import /init.recovery.qcom_decrypt.rc
+import /init.recovery.usb.rc
 
 on boot
     start health-hal-2-1
